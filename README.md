@@ -1,3 +1,3 @@
 # Conflict
 
-- let's fix it
+- let's fix it!
